@@ -36,7 +36,7 @@ CONFIG_BUILDTIME_EXTABLE_SORT=y
 #
 CONFIG_INIT_ENV_ARG_LIMIT=32
 CONFIG_CROSS_COMPILE="*/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-"
-CONFIG_LOCALVERSION="-AICP"
+CONFIG_LOCALVERSION="-unicornblood-bullhead-m"
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_DEFAULT_HOSTNAME="(none)"
 CONFIG_SWAP=y
